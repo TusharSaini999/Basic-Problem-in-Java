@@ -29,10 +29,10 @@ This repository contains solutions to **150 programming problems** designed for 
 18. Sum of n numbers
 19. Sum of n odd numbers
 20. Sum of n even numbers
+21. Sum of numbers divisible by 3
 
 ### 📊 Mathematical Computations
 
-21. Sum of numbers divisible by 3
 22. Factorial of a number
 23. Reverse a number
 24. Sum of digits of a number
@@ -42,10 +42,14 @@ This repository contains solutions to **150 programming problems** designed for 
 28. Check if a number is prime
 29. Calculate permutation (nPr)
 30. Calculate combination (nCr)
+31. Factorial of a number using do-while loop
+32. Factorial of n numbers
+33. Print the multiplication table of a number
+34. Print multiplication tables from m to n
 
 ### 📐 Patterns
 
-31. Print various patterns (stars, numbers, alphabets)
+35. Pattern(35 to 108).
 
 ### 📚 Array Operations
 
@@ -71,21 +75,29 @@ This repository contains solutions to **150 programming problems** designed for 
 128. Sort an array in ascending order
 129. Sort an array in descending order
 130. Find the union and intersection of two arrays
+131. Find the three largest integers in an array
+132. Delete an element from an array
+133. Insert an element in an array at a given index
+134. Update an element in an array at a given index
+135. Find the three smallest integers in an array
+136. Arrange array elements: even at even places, odd at odd places
+137. Factorial of the largest array element
 
 ### 📐 Miscellaneous
 
 138. Find the GCD of numbers
 139. Find the LCM of three numbers
-140. Check if a number is a palindrome
-141. Check if a number is an Armstrong number
-142. Calculate the power of a number
-143. Sum of cubes of digits
-144. Sum of a specific series
-145. Print the Fibonacci series
-146. Print a custom arithmetic series
-147. Print the ASCII table
-148. Print the array in reverse order
-149. Count digits in a number
+140. Difference between smallest and largest elements in an array
+141. Check if a number is a palindrome
+142. Check if a number is an Armstrong number
+143. Calculate the power of a number
+144. Sum of cubes of digits
+145. Sum of a specific series (1/2 + 1/22 + 1/23 + …)
+146. Print the Fibonacci series
+147. Print a custom arithmetic series (1 + 7 + 12 + 19 + …)
+148. Print the ASCII table
+149. Print the array in reverse order
+150. Count digits in a number
 
 ## 📂 Structure
 
@@ -103,4 +115,6 @@ This repository is licensed under the GNU License.
 ---
 
 Happy Coding! 💻✨
+
+
 
