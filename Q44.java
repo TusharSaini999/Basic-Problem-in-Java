@@ -13,7 +13,7 @@ class Q44{
         for(int i=n;i>=0;i--){
             for(int j=i;j>=0;j--){
                     if(i==j){
-                        System.out.println("");
+                        System.out.print("\n");
                     }
                     else {
                         System.out.print("*");

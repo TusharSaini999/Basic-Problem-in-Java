@@ -13,14 +13,14 @@ class Q43{
         int n=s.nextInt();
         for(int i=0;i<=n;i++){
             for(int j=0;j<=i;j++){
+                if(i!=j){
+                    System.out.print(" ");
+                }
                 if(i==j){
-                    System.out.println("");
+                    System.out.print("\n");
                 }
                 else{
                     System.out.print("*");
-                }
-                if(i!=j){
-                    System.out.print(" ");
                 }
             }
         }
