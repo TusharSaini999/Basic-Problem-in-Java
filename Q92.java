@@ -1,17 +1,18 @@
-/// 0
-/// 101
-/// 21012
-/// 3210123
-/// 432101234
+/// A
+/// BAB
+/// CBABC
+/// DCBABCD
+/// EDCBABCDE
+
 import java.util.Scanner;
-class Q91{
+class Q92{
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         System.out.print("Enter a No:");
         int n=s.nextInt();
         for(int i=0;i<n;i++){
             for(int j=i;j>=-i;j--){
-                System.out.print(Math.abs(j));
+                System.out.print((char)(Math.abs(j)+65));
             }
             System.out.println();
         }
