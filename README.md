@@ -101,9 +101,9 @@ This repository contains solutions to **150 programming problems** designed for 
 
 ## 📂 Structure
 
--Each program is organized into a separate package based on its category.
--Programs are grouped by type (e.g. BasicArithmetic, NumberOperation, etc.) to maintain clarity and ease of navigation.
--Within each package, individual files represent specific programs for modularity and better code management.
+- Each program is organized into a separate package based on its category.
+- Programs are grouped by type (e.g. BasicArithmetic, NumberOperation, etc.) to maintain clarity and ease of navigation.
+- Within each package, individual files represent specific programs for modularity and better code management.
 
 ## 📌 Contribution
 
